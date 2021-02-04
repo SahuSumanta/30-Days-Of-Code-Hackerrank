@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Day4 {
+    //class vs Instance
     private int age;
 
     public Day4(int initialAge) {

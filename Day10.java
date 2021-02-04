@@ -7,7 +7,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Day10 {
-
+    //Binary numbers
 
 
     private static final Scanner scanner = new Scanner(System.in);

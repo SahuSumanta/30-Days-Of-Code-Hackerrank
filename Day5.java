@@ -7,7 +7,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Day5 {
-
+    //Loops
 
 
     private static final Scanner scanner = new Scanner(System.in);

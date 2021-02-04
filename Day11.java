@@ -1,5 +1,6 @@
 import java.util.*;
 public class Day11 {
+    //2dArrays
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         int sum1 = 0;

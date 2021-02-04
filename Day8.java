@@ -3,6 +3,7 @@ import java.util.*;
 import java.io.*;
 
 public class Day8 {
+    //Dictonaries and Map
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
