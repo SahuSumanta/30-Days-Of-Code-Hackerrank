@@ -12,7 +12,6 @@ public class Day1 {
         String s = "HackerRank ";
 		
         Scanner scan = new Scanner(System.in);
-
         /* Declare second integer, double, and String variables. */
         int i2 = scan.nextInt();
         double d2 = scan.nextDouble();
