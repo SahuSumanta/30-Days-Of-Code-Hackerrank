@@ -19,7 +19,9 @@ class MyBook extends Book{
 
     MyBook(String title, String author, int price){
         super(title, author);
-        this .price = price;
+        this.price = price;
+        this.title =  title;
+        this.author = author;
     }
 
     public void display(){
