@@ -3,7 +3,8 @@ package Gfg_practice_Set;
 import java.util.Scanner;
 
 public class Max_Min {
-    private static Object myArray;
+    //private static Object myArray;
+
     //Max Method
     public int Max(int arr[]){
         int Max = 0;
@@ -37,7 +38,7 @@ public class Max_Min {
         }
 
         // int A[] = {95,25, 97, 24, 67, 100};
-        Max_Min M = new Max_Min();
+        Max_Min M = new Max_Min(); // object
         System.out.println("Maximum value in the array is::"+M.Max(A));
         System.out.println("Maximum value in the array is::"+M.Min(A));
     Sc.close();
